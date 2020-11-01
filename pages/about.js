@@ -1,7 +1,7 @@
 import Menu from '../components/Menu';
 import React from 'react';
 import axios from 'axios';
-import 'bootstrap/dist/css/bootstrap.min.css';
+
 import { Jumbotron, Container, Row, Col } from 'reactstrap';
 
 const About = (data) => (
